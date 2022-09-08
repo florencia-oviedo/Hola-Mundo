@@ -2,4 +2,5 @@
 
 Mi primer repositorio en Github
 
-I love :games , :pizza , :cat  
+I love :icecream: , :pizza: , :cat:  , :dog: , :cherry_blossom:
+
